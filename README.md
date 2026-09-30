@@ -92,3 +92,14 @@ Review Data และ Product Metadata ถูกเชื่อมเข้า�
 
 ---
 
+## Part 3: Data Collection Robot + External Business Insight
+
+### dataset
+<!-- ใส่ลิงก์ Google Drive ของไฟล์ข้อมูล Part 3 -->
+
+## 1. Project Overview
+
+Part 3 มีวัตถุประสงค์เพื่อเก็บข้อมูลจากแหล่งภายนอก (External Data) แล้วนำมาวิเคราะห์เพื่อสร้าง Business Insight
+ที่ใช้สนับสนุนการตัดสินใจได้ โดยต่อยอดแนวคิดจาก Part 2 ที่ใช้ Rating และสัดส่วน Bad Review (`rating ≤ 2`)
+เป็นสัญญาณปัญหา
+
